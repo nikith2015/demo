@@ -4,6 +4,8 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 
 public class SessionTest {
+	
+	//Adding a comment
 
 	public static void main(String[] args) {
 		SessionFactory sf = SessionFactoryBuilder.getSessionFactory();
